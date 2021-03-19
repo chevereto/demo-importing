@@ -1,0 +1,17 @@
+{
+    "userData": {
+        "role": "user",
+        "name": "Alejandro Sosa",
+        "username": "alex",
+        "email": "alexsosa@geocities.es",
+        "website": "https://www.youtube.com/watch?v=_GHpLByYCjI&t=1s",
+        "bio": "Tony what happened?",
+        "profileImages": {
+            "avatar": "alex.jpg",
+            "background": "cochabamba.jpg"
+        },
+        "timezone": "America/La_Paz",
+        "language": "es",
+        "private": false
+    }
+}

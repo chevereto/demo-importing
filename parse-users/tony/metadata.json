@@ -1,0 +1,21 @@
+{
+    "userData": {
+        "role": "admin",
+        "name": "Tony Montana",
+        "username": "tony",
+        "email": "tony@montanamanagement.co",
+        "website": "https://www.youtube.com/watch?v=Olgn9sXNdl0",
+        "bio": "With the right woman, there’s no stopping me. I could go right to the top!",
+        "profileImages": {
+            "avatar": "tony.jpg",
+            "background": "scarface_tropical_wall.jpg"
+        },
+        "networks": {
+            "facebook": "scarface",
+            "twitter": "scarface"
+        },
+        "timezone": "America/Havana",
+        "language": "es",
+        "private": false
+    }
+}

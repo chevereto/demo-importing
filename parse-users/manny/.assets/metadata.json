@@ -1,0 +1,17 @@
+{
+    "userData": {
+        "role": "manager",
+        "name": "Manny Ribera",
+        "username": "manny",
+        "email": "manny@montanamanagement.edu",
+        "website": "https://scarface.fandom.com/wiki/Manny_Ribera",
+        "bio": "All your enemies are gone.",
+        "profileImages": {
+            "avatar": "manny.jpg",
+            "background": "little-havana.jpg"
+        },
+        "timezone": "America/Havana",
+        "language": "es",
+        "private": false
+    }
+}
