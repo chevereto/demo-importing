@@ -1,0 +1,16 @@
+{
+    "userData": {
+        "role": "user",
+        "name": "Elvira",
+        "username": "elvira",
+        "email": "elvira@ss.co",
+        "bio": "I like tigers.",
+        "profileImages": {
+            "avatar": "elvira.jpg",
+            "background": "tiger.jpg"
+        },
+        "timezone": "America/Havana",
+        "language": "es",
+        "private": false
+    }
+}
