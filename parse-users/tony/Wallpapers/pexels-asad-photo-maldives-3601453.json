@@ -1,0 +1,12 @@
+{
+    "imageData": {
+        "title": "Maldives Friday",
+        "description": "I noticed a guy moving some stuff in a boat.",
+        "nsfw": false,
+        "category": {
+            "name": "Landscapes",
+            "urlKey": "landscapes",
+            "description": "Photos of beautiful places on the earth."
+        }
+    }
+}
