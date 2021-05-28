@@ -22,7 +22,7 @@ This repo holds the contents of the `importing/` path at the root of your Chever
 
 ## Documentation
 
-Check the [Bulk Content Importer Documentation](https://v3-docs.chevereto.com/features/bulk-content-importer.html).
+Check the [Bulk Content Importer Documentation](https://v3-docs.chevereto.com/features/content/bulk-content-importer.html).
 
 ## Credits
 
