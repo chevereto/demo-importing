@@ -1,0 +1,18 @@
+{
+    "userData": {
+        "name": "Administrator",
+        "website": "http://chv.to",
+        "bio": "I pity the fool!",
+        "profileImages": {
+            "avatar": "admin.jpg",
+            "background": "matrix.jpg"
+        },
+        "networks": {
+            "facebook": "chevereto",
+            "twitter": "chevereto"
+        },
+        "timezone": "America/Santiago",
+        "language": "es",
+        "private": false
+    }
+}
