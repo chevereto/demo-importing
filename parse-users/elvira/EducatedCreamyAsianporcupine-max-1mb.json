@@ -1,0 +1,10 @@
+{
+    "imageData": {
+        "title": "Say hello",
+        "category": {
+            "name": "Movies",
+            "urlKey": "movies",
+            "description": "From movies & cinema."
+        }
+    }
+}
