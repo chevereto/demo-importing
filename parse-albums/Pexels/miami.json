@@ -1,6 +1,7 @@
 {
     "imageData": {
-        "title": "Next voyage",
+        "title": "Miami",
+        "description": "Photo by Antonio Cuellar.",
         "category": {
             "name": "Landscapes",
             "urlKey": "landscapes",

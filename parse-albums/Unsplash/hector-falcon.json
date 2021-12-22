@@ -1,0 +1,11 @@
+{
+    "imageData": {
+        "title": "Miami at night",
+        "description": "Photo by Hector Falcon.",
+        "category": {
+            "name": "City",
+            "urlKey": "city",
+            "description": "Photos around cities."
+        }
+    }
+}

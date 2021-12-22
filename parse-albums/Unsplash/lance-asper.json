@@ -1,0 +1,11 @@
+{
+    "imageData": {
+        "title": "Miami drone",
+        "description": "Photo by Lance Asper.",
+        "category": {
+            "name": "City",
+            "urlKey": "city",
+            "description": "Photos around cities."
+        }
+    }
+}

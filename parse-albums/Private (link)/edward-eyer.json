@@ -1,0 +1,11 @@
+{
+    "imageData": {
+        "title": "Family unplugged",
+        "description": "Photo by Edward Eyer.",
+        "category": {
+            "name": "People",
+            "urlKey": "people",
+            "description": "People & Social."
+        }
+    }
+}

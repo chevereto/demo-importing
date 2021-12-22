@@ -1,0 +1,11 @@
+{
+    "imageData": {
+        "title": "Miami Tropics",
+        "description": "Photo by Ryan Spencer.",
+        "category": {
+            "name": "City",
+            "urlKey": "city",
+            "description": "Photos around cities."
+        }
+    }
+}

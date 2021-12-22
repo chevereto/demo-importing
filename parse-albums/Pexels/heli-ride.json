@@ -1,0 +1,11 @@
+{
+    "imageData": {
+        "title": "Heli ride",
+        "description": "Photo by Eray Altay.",
+        "category": {
+            "name": "People",
+            "urlKey": "people",
+            "description": "People & Social."
+        }
+    }
+}
