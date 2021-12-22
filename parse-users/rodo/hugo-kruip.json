@@ -1,5 +1,7 @@
 {
     "imageData": {
+        "title": "Llamas",
+        "description": "Photo by Hugo Kruip.",
         "category": {
             "name": "Animals",
             "urlKey": "animals",

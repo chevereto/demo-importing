@@ -12,7 +12,6 @@
             "twitter": "chevereto"
         },
         "timezone": "America/Santiago",
-        "language": "es",
-        "private": false
+        "language": "es"
     }
 }

@@ -1,5 +1,7 @@
 {
     "imageData": {
+        "title": "Gran Condor",
+        "description": "Photo by Fati Larai Lara.",
         "category": {
             "name": "Animals",
             "urlKey": "animals",
