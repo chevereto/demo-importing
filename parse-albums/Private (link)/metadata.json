@@ -1,0 +1,10 @@
+{
+    "albumData": {
+        "title": "Private (link) album",
+        "description": "Private but link protected album.",
+        "access": "private",
+        "privacy": {
+            "type": "private_but_link"
+        }
+    }
+}

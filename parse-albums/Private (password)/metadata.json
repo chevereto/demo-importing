@@ -1,0 +1,11 @@
+{
+    "albumData": {
+        "title": "Password album",
+        "description": "Password protected album.",
+        "access": "private",
+        "privacy": {
+            "type": "password",
+            "password": "12345"
+        }
+    }
+}
