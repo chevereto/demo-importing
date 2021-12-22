@@ -1,0 +1,10 @@
+{
+    "imageData": {
+        "description": "Photo by Aryan Dhiman.",
+        "category": {
+            "name": "Tech",
+            "urlKey": "tech",
+            "description": "Tech stuff."
+        }
+    }
+}
