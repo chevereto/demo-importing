@@ -1,0 +1,11 @@
+{
+    "imageData": {
+        "title": "You should be dancing",
+        "description": "From the movie Scarface.",
+        "category": {
+            "name": "Movies",
+            "urlKey": "movies",
+            "description": "From movies & cinema."
+        }
+    }
+}

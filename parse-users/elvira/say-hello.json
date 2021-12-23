@@ -1,6 +1,7 @@
 {
     "imageData": {
-        "title": "Say hello",
+        "title": "Say hello to my little friend!",
+        "description": "From the movie Scarface.",
         "category": {
             "name": "Movies",
             "urlKey": "movies",

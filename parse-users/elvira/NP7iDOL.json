@@ -1,0 +1,10 @@
+{
+    "imageData": {
+        "title": "Not Daft Punk",
+        "category": {
+            "name": "Movies",
+            "urlKey": "movies",
+            "description": "From movies & cinema."
+        }
+    }
+}
