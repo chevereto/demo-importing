@@ -1,0 +1,10 @@
+{
+    "imageData": {
+        "title": "Studio Ghibli",
+        "category": {
+            "name": "Art",
+            "urlKey": "art",
+            "description": "Artistic photos & images."
+        }
+    }
+}

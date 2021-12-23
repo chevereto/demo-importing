@@ -1,5 +1,7 @@
 {
     "imageData": {
+        "title": "Torres del Paine",
+        "description": "Photo by Hector Marquez.",
         "category": {
             "name": "Landscapes",
             "urlKey": "landscapes",

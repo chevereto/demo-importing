@@ -1,5 +1,7 @@
 {
     "imageData": {
+        "title": "Bloom",
+        "description": "Photo by Tj Holowaychuk.",
         "category": {
             "name": "Nature",
             "urlKey": "nature",

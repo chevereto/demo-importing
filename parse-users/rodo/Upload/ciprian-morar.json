@@ -1,5 +1,7 @@
 {
     "imageData": {
+        "title": "Glacier",
+        "description": "Photo by Ciprian Morar.",
         "category": {
             "name": "Landscapes",
             "urlKey": "landscapes",
