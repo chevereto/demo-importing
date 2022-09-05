@@ -1,0 +1,20 @@
+{
+    "userData": {
+        "role": "admin",
+        "name": "NASA",
+        "username": "nasa",
+        "email": "nasa@nasa.loc",
+        "website": "https://nasa.gov",
+        "profileImages": {
+            "avatar": "nasa.jpg",
+            "background": "dses-banner-01.jpeg"
+        },
+        "networks": {
+            "facebook": "nasa",
+            "twitter": "nasa"
+        },
+        "timezone": "America/Havana",
+        "language": "en",
+        "private": false
+    }
+}
