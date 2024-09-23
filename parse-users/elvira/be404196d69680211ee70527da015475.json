@@ -1,6 +1,10 @@
 {
     "imageData": {
         "title": "Color wheel",
+        "tags": [
+            "loop",
+            "color-wheel"
+        ],
         "category": {
             "name": "Art",
             "urlKey": "art",

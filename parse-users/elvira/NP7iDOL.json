@@ -1,10 +1,15 @@
 {
     "imageData": {
         "title": "Not Daft Punk",
+        "tags": [
+            "loop",
+            "pixel-art",
+            "daft-punk"
+        ],
         "category": {
-            "name": "Movies",
-            "urlKey": "movies",
-            "description": "From movies & cinema."
+            "name": "Art",
+            "urlKey": "art",
+            "description": "Artistic photos & images."
         }
     }
 }

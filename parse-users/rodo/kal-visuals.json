@@ -2,6 +2,10 @@
     "imageData": {
         "title": "Spiky",
         "description": "Photo by Kal Visuals.",
+        "tags": [
+            "cactus",
+            "desert"
+        ],
         "category": {
             "name": "Nature",
             "urlKey": "nature",

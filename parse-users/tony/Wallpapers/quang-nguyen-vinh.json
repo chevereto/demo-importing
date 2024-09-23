@@ -2,6 +2,12 @@
     "imageData": {
         "title": "Vietnam",
         "description": "I took many souvenirs in my visit to this beautiful country.",
+        "tags": [
+            "beach",
+            "palm",
+            "sea",
+            "sunset"
+        ],
         "nsfw": false,
         "category": {
             "name": "Landscapes",

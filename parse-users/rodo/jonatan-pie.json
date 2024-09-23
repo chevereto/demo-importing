@@ -2,6 +2,13 @@
     "imageData": {
         "title": "Earth Wind & Fire",
         "description": "Photo by Jonatan Pie.",
+        "tags": [
+            "earth",
+            "wind",
+            "fire",
+            "moundain",
+            "volcano"
+        ],
         "category": {
             "name": "Nature",
             "urlKey": "nature",

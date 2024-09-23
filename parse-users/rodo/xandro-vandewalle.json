@@ -2,6 +2,10 @@
     "imageData": {
         "title": "Alpacastyle",
         "description": "Photo by Xandro Vandewalle.",
+        "tags": [
+            "alpaca",
+            "andes"
+        ],
         "category": {
             "name": "Animals",
             "urlKey": "animals",

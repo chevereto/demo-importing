@@ -2,6 +2,10 @@
     "imageData": {
         "title": "Orange Crush",
         "description": "Photo by Karina Vorozheeva.",
+        "tags": [
+            "orange",
+            "fruit"
+        ],
         "category": {
             "name": "Nature",
             "urlKey": "nature",

@@ -1,6 +1,10 @@
 {
     "imageData": {
         "title": "Maya look",
+        "tags": [
+            "loop",
+            "pixel-art"
+        ],
         "category": {
             "name": "Art",
             "urlKey": "art",

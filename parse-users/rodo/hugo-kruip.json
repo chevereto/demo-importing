@@ -2,6 +2,11 @@
     "imageData": {
         "title": "Llamas",
         "description": "Photo by Hugo Kruip.",
+        "tags": [
+            "llama",
+            "cute",
+            "andes"
+        ],
         "category": {
             "name": "Animals",
             "urlKey": "animals",

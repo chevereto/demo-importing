@@ -2,6 +2,12 @@
     "imageData": {
         "title": "Maldives Friday",
         "description": "I noticed a guy moving some stuff in a boat.",
+        "tags": [
+            "beach",
+            "palm",
+            "sea",
+            "sunset"
+        ],
         "nsfw": false,
         "category": {
             "name": "Landscapes",

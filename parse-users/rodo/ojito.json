@@ -1,6 +1,10 @@
 {
     "imageData": {
         "title": "Eye wide open",
+        "tags": [
+            "eye",
+            "body"
+        ],
         "category": {
             "name": "Abstract",
             "urlKey": "abstract",

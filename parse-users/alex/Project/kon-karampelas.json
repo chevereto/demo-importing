@@ -2,6 +2,11 @@
     "imageData": {
         "title": "Jellyfish",
         "description": "Photo by Kon Karampelas.",
+        "tags": [
+            "jellyfish",
+            "sea",
+            "ocean"
+        ],
         "category": {
             "name": "Nature",
             "urlKey": "nature",

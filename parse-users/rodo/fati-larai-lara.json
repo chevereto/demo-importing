@@ -2,6 +2,12 @@
     "imageData": {
         "title": "Gran Condor",
         "description": "Photo by Fati Larai Lara.",
+        "tags": [
+            "bird",
+            "condor",
+            "sea",
+            "chile"
+        ],
         "category": {
             "name": "Animals",
             "urlKey": "animals",

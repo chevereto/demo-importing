@@ -2,6 +2,12 @@
     "imageData": {
         "title": "Arena del fuego",
         "description": "Photo by Cottonbro.",
+        "tags": [
+            "people",
+            "beach",
+            "fire",
+            "party"
+        ],
         "category": {
             "name": "People",
             "urlKey": "people",

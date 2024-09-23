@@ -1,6 +1,12 @@
 {
     "imageData": {
         "title": "Pixel Neo City",
+        "description": "Art by Hamato.",
+        "tags": [
+            "loop",
+            "pixel-art",
+            "city"
+        ],
         "category": {
             "name": "Art",
             "urlKey": "art",

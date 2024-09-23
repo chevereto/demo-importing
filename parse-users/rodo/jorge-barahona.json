@@ -2,6 +2,11 @@
     "imageData": {
         "title": "Cordillera's Nights",
         "description": "Photo by Jorge Barahona.",
+        "tags": [
+            "mountains",
+            "night",
+            "stars"
+        ],
         "category": {
             "name": "Landscapes",
             "urlKey": "landscapes",

@@ -1,6 +1,10 @@
 {
     "imageData": {
         "title": "Gradient fill",
+        "tags": [
+            "color",
+            "gradient"
+        ],
         "category": {
             "name": "Abstract",
             "urlKey": "abstract",

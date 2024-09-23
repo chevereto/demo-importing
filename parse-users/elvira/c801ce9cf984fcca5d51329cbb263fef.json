@@ -1,6 +1,10 @@
 {
     "imageData": {
         "title": "Spin Donut",
+        "tags": [
+            "loop",
+            "donut"
+        ],
         "category": {
             "name": "Art",
             "urlKey": "art",

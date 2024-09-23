@@ -2,6 +2,12 @@
     "imageData": {
         "title": "Maldives Monday",
         "description": "Look these palm threes, beautiful man.",
+        "tags": [
+            "beach",
+            "palm",
+            "sea",
+            "sunset"
+        ],
         "nsfw": false,
         "category": {
             "name": "Landscapes",

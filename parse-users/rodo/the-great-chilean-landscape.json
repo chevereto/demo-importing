@@ -1,6 +1,12 @@
 {
     "imageData": {
         "title": "The Great Chilean Landscape",
+        "tags": [
+            "mountains",
+            "landscape",
+            "guru-guru",
+            "pink-teacher"
+        ],
         "category": {
             "name": "Art",
             "urlKey": "art",

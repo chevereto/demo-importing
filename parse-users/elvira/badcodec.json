@@ -1,7 +1,11 @@
 {
     "imageData": {
         "title": "Iterative",
-        "description": "Art by Badcode.",
+        "description": "Art by Badcodec.",
+        "tags": [
+            "loop",
+            "BADCODEC"
+        ],
         "category": {
             "name": "Art",
             "urlKey": "art",

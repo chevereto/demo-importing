@@ -2,6 +2,11 @@
     "imageData": {
         "title": "Finding Nemo",
         "description": "Photo by Tom Fisk.",
+        "tags": [
+            "fish",
+            "sea",
+            "ocean"
+        ],
         "category": {
             "name": "Nature",
             "urlKey": "nature",

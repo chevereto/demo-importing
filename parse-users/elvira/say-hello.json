@@ -2,6 +2,11 @@
     "imageData": {
         "title": "Say hello to my little friend!",
         "description": "From the movie Scarface.",
+        "tags": [
+            "scarface",
+            "al-pacino",
+            "tony-montana"
+        ],
         "category": {
             "name": "Movies",
             "urlKey": "movies",

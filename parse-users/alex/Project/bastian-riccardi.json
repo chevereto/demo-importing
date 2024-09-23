@@ -2,6 +2,10 @@
     "imageData": {
         "title": "Color orb",
         "description": "Photo by Bastian Riccardi.",
+        "tags": [
+            "color",
+            "orb"
+        ],
         "category": {
             "name": "Abstract",
             "urlKey": "abstract",

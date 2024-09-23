@@ -1,6 +1,10 @@
 {
     "imageData": {
         "title": "Rainbow spring",
+        "tags": [
+            "loop",
+            "rainbow"
+        ],
         "category": {
             "name": "Art",
             "urlKey": "art",

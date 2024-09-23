@@ -1,6 +1,13 @@
 {
     "imageData": {
         "title": "Selfie with the chiquillos",
+        "tags": [
+            "people",
+            "good-times",
+            "party",
+            "beach",
+            "selfie"
+        ],
         "category": {
             "name": "People",
             "urlKey": "people",

@@ -2,6 +2,10 @@
     "imageData": {
         "title": "Chispitas",
         "description": "Photo by Sarah Trummer.",
+        "tags": [
+            "fireworks",
+            "sparklers"
+        ],
         "category": {
             "name": "People",
             "urlKey": "people",

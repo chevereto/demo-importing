@@ -2,6 +2,10 @@
     "imageData": {
         "title": "Salucita",
         "description": "Photo by Cottonbro.",
+        "tags": [
+            "people",
+            "good-times"
+        ],
         "category": {
             "name": "People",
             "urlKey": "people",
