@@ -2,6 +2,12 @@
     "imageData": {
         "title": "Selling software be like",
         "description": "From the movie Scarface.",
+        "tags": [
+            "php",
+            "chevereto",
+            "software",
+            "money"
+        ],
         "category": {
             "name": "Movies",
             "urlKey": "movies",
