@@ -2,6 +2,12 @@
     "imageData": {
         "title": "Cannon lens",
         "description": "Photo by Andre Furtado.",
+        "tags": [
+            "cannon",
+            "lens",
+            "camera",
+            "photography"
+        ],
         "category": {
             "name": "People",
             "urlKey": "people",
