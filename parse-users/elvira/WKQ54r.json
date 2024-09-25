@@ -3,11 +3,10 @@
         "title": "You should be dancing",
         "description": "From the movie Scarface.",
         "tags": [
-            "scarface",
-            "al-pacino",
-            "tony-montana",
-            "Michelle Pfeiffer",
-            "elvira"
+            "Scarface",
+            "Al Pacino",
+            "Tony Montana",
+            "Michelle Pfeiffer"
         ],
         "category": {
             "name": "Movies",
